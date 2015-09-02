@@ -12,7 +12,8 @@ mandatory dependencies
 * yo
 * brunch
 
+```shell
     $ composer update
-
+```
 
 
