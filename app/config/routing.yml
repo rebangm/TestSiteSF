@@ -1,3 +1,7 @@
+orca_front:
+    resource: "@OrcaFrontBundle/Resources/config/routing.yml"
+    prefix:   /
+
 orca_admin:
     resource: "@OrcaAdminBundle/Resources/config/routing.yml"
     prefix:   /manager

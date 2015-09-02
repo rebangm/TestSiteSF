@@ -18,6 +18,7 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new FOS\UserBundle\FOSUserBundle(),
             new Orca\AdminBundle\OrcaAdminBundle(),
+            new Orca\FrontBundle\OrcaFrontBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
