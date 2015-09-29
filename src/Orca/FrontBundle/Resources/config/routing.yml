@@ -1,3 +1,0 @@
-orca_front_homepage:
-    path:     /
-    defaults: { _controller: OrcaFrontBundle:Default:index }
